@@ -1,4 +1,5 @@
 BROGANGIN RESOLUSI
 - menyelesaikan tugas max 1 hari(2sks), 2 hari(2sks), 3 hari (4sks) setelah diberikan
 - belajar materi diluar mata kuliah min 3 video/topic
-- membuat proyek web dev
+- membuat proyek web portofolio
+- mebuat proyek web dari client bebas sebagai latihan
