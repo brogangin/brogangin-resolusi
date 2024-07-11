@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-10T18:31:17.336Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="SKSoyeFARhMeOiAxLJaf" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-11T05:21:58.830Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="rxCa2Qglhkr1vJTDWZkB" version="24.6.4" type="github">
   <diagram name="Page-1" id="JjNUIMXP1V1-mz3ZM_zc">
     <mxGraphModel dx="1050" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -125,25 +125,25 @@
           <mxGeometry x="280" y="220" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="74BDs7PdBq_H56w60XXF-15" value="Tambah Data Kategori Produk" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="680" y="200" width="120" height="80" as="geometry" />
+          <mxGeometry x="680" y="180" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="74BDs7PdBq_H56w60XXF-16" value="Logout" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="520" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="74BDs7PdBq_H56w60XXF-17" value="Ubah Data Kategori Produk" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="680" y="290" width="120" height="80" as="geometry" />
+          <mxGeometry x="680" y="270" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="74BDs7PdBq_H56w60XXF-18" value="Hapus Data Kategori Produk" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="680" y="380" width="120" height="80" as="geometry" />
+          <mxGeometry x="680" y="360" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="74BDs7PdBq_H56w60XXF-21" value="Tambah Data Produk" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="425" width="120" height="80" as="geometry" />
+          <mxGeometry x="520" y="410" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="74BDs7PdBq_H56w60XXF-22" value="Ubah Data Produk" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="515" width="120" height="80" as="geometry" />
+          <mxGeometry x="520" y="500" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="74BDs7PdBq_H56w60XXF-23" value="Hapus Data Produk" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="605" width="120" height="80" as="geometry" />
+          <mxGeometry x="520" y="590" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="74BDs7PdBq_H56w60XXF-45" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;startArrow=classic;startFill=1;" parent="1" source="74BDs7PdBq_H56w60XXF-5" target="74BDs7PdBq_H56w60XXF-51" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -166,10 +166,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="74BDs7PdBq_H56w60XXF-51" value="Tambah Data User Admin" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="40" width="120" height="80" as="geometry" />
+          <mxGeometry x="520" y="50" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="74BDs7PdBq_H56w60XXF-52" value="Ubah Data User Admin" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="130" width="120" height="80" as="geometry" />
+          <mxGeometry x="520" y="140" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
