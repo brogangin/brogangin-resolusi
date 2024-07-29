@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-gIiQlug9WrT8X33pGCs-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="120" width="170" height="410" as="geometry" />
+        </mxCell>
         <mxCell id="-gIiQlug9WrT8X33pGCs-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="120" width="360" height="310" as="geometry" />
         </mxCell>
@@ -103,9 +106,6 @@
         </mxCell>
         <mxCell id="-gIiQlug9WrT8X33pGCs-3" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="415" y="450" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-gIiQlug9WrT8X33pGCs-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="120" width="170" height="410" as="geometry" />
         </mxCell>
         <mxCell id="-gIiQlug9WrT8X33pGCs-7" value="(Metode Regresi Linier)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="192.5" y="90" width="135" height="30" as="geometry" />
