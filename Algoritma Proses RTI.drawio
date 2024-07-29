@@ -8,18 +8,22 @@
           <mxGeometry x="170" y="120" width="170" height="410" as="geometry" />
         </mxCell>
         <mxCell id="-gIiQlug9WrT8X33pGCs-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="120" width="360" height="310" as="geometry" />
+          <mxGeometry x="380" y="120" width="400" height="310" as="geometry" />
         </mxCell>
         <mxCell id="oYtDR6zYdQn8z731eVmW-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-gIiQlug9WrT8X33pGCs-2" target="oYtDR6zYdQn8z731eVmW-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="460" y="120" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="440" y="130" />
+              <mxPoint x="498" y="130" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="oYtDR6zYdQn8z731eVmW-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-gIiQlug9WrT8X33pGCs-2" target="oYtDR6zYdQn8z731eVmW-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="80" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="465" y="130" />
+              <mxPoint x="440" y="130" />
               <mxPoint x="260" y="130" />
             </Array>
           </mxGeometry>
@@ -38,11 +42,16 @@
         <mxCell id="oYtDR6zYdQn8z731eVmW-3" value="Input Data&lt;div&gt;Penjualan&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oYtDR6zYdQn8z731eVmW-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oYtDR6zYdQn8z731eVmW-4" target="oYtDR6zYdQn8z731eVmW-13" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="oYtDR6zYdQn8z731eVmW-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oYtDR6zYdQn8z731eVmW-4" target="oYtDR6zYdQn8z731eVmW-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="497.5" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="180" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="oYtDR6zYdQn8z731eVmW-4" value="Input Data&lt;div&gt;Keuntungan&lt;/div&gt;&lt;div&gt;Produk dan Bobot Prioritas&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="395" y="150" width="140" height="60" as="geometry" />
+        <mxCell id="oYtDR6zYdQn8z731eVmW-4" value="Input Data&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Keuntungan&lt;/span&gt;&lt;div&gt;Produk,&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Kapasitas Maksimal Produksi,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;dan Bobot Prioritas&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="150" width="195" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oYtDR6zYdQn8z731eVmW-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oYtDR6zYdQn8z731eVmW-10" target="oYtDR6zYdQn8z731eVmW-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -50,28 +59,17 @@
         <mxCell id="oYtDR6zYdQn8z731eVmW-10" value="Hitung Peramalan Permintaan Produk (y)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oYtDR6zYdQn8z731eVmW-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oYtDR6zYdQn8z731eVmW-12" target="oYtDR6zYdQn8z731eVmW-20" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="560" y="380" />
-              <mxPoint x="560" y="180" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oYtDR6zYdQn8z731eVmW-12" value="Membangun Model&lt;div&gt;Fungsi Kendala&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="405" y="350" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="oYtDR6zYdQn8z731eVmW-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oYtDR6zYdQn8z731eVmW-13" target="oYtDR6zYdQn8z731eVmW-12" edge="1">
+        <mxCell id="-gIiQlug9WrT8X33pGCs-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oYtDR6zYdQn8z731eVmW-12" target="oYtDR6zYdQn8z731eVmW-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oYtDR6zYdQn8z731eVmW-13" value="Input Kapasitas Maksimal Produksi" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="250" width="130" height="60" as="geometry" />
+        <mxCell id="oYtDR6zYdQn8z731eVmW-12" value="Membangun Model&lt;div&gt;Fungsi Kendala&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="437.5" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oYtDR6zYdQn8z731eVmW-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oYtDR6zYdQn8z731eVmW-15" target="oYtDR6zYdQn8z731eVmW-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="360" y="480" />
-              <mxPoint x="360" y="380" />
+              <mxPoint x="360" y="280" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -79,39 +77,44 @@
           <mxGeometry x="195" y="450" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oYtDR6zYdQn8z731eVmW-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oYtDR6zYdQn8z731eVmW-20" target="oYtDR6zYdQn8z731eVmW-25" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="380" />
+              <mxPoint x="610" y="180" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="oYtDR6zYdQn8z731eVmW-20" value="Membangun Model&lt;div&gt;Fungsi Tujuan&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="590" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="437.5" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oYtDR6zYdQn8z731eVmW-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oYtDR6zYdQn8z731eVmW-25" target="oYtDR6zYdQn8z731eVmW-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oYtDR6zYdQn8z731eVmW-25" value="Menghitung Penyelesaian Model" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="590" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oYtDR6zYdQn8z731eVmW-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oYtDR6zYdQn8z731eVmW-27" target="-gIiQlug9WrT8X33pGCs-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="520" y="480" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="650" y="480" />
+              <mxPoint x="695" y="500" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="oYtDR6zYdQn8z731eVmW-27" value="Hasil Hitung&lt;div&gt;Optimasi Produksi&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="585" y="350" width="130" height="60" as="geometry" />
+          <mxGeometry x="635" y="250" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-gIiQlug9WrT8X33pGCs-2" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="415" y="50" width="100" height="60" as="geometry" />
+          <mxGeometry x="390" y="40" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-gIiQlug9WrT8X33pGCs-3" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="415" y="450" width="100" height="60" as="geometry" />
+          <mxGeometry x="650" y="460" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-gIiQlug9WrT8X33pGCs-7" value="(Metode Regresi Linier)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="192.5" y="90" width="135" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-gIiQlug9WrT8X33pGCs-8" value="(Metode Goal Programming)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="90" width="160" height="30" as="geometry" />
+          <mxGeometry x="580" y="90" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
